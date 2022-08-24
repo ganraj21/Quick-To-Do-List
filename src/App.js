@@ -1,6 +1,6 @@
 import React from 'react'
 import ToDoListMain from './ToDoListMain'
-function App() {
+const App = () => {
   return (
     <>
       <ToDoListMain />
